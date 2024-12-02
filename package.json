@@ -1,0 +1,19 @@
+{
+  "name": "graphql-profile",
+  "version": "1.0.0",
+  "description": "Un projet pour afficher le profil d'un utilisateur avec GraphQL",
+  "main": "app.js",
+  "scripts": {
+    "start": "live-server", 
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["graphql", "jwt", "profile", "api", "graphQL", "stats"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@apollo/client": "^3.11.10",
+    "ejs": "^3.1.10",
+    "graphql": "^16.9.0",
+    "jwt-decode": "^4.0.0"
+  }
+}
