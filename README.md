@@ -20,8 +20,8 @@ Ce projet permet de :
 ## **Fichiers**
 
 - `index.html` : Contient la structure de la page.
-- `index.css` : Gère le style visuel.
-- `app.js` : Contient la logique JavaScript, y compris les appels GraphQL et la gestion des graphiques.
+- `styles.css` : Gère le style visuel.
+- `script.js` : Contient la logique JavaScript, y compris les appels GraphQL et la gestion des graphiques.
 
 ## **Installation**
 
